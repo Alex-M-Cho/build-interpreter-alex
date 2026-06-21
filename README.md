@@ -6,11 +6,15 @@ This repository contains my work for the Open Avenues Build Fellowship project, 
 
 The goal of this project is to build a simple interpreter from scratch and learn how programming languages execute code using concepts such as recursion, Abstract Syntax Trees, and expression evaluation.
 
-## Structure
+## Repository Structure
 
-- workshop1/
-- workshop2/
-- workshop3/
+- workshop1: Introduction to symbols, recursion, and trees
+
+- workshop2: Trees and recursion exercises
+
+- workshop3: Future workshop materials
+
+- workshop4: Future workshop materials
 
 ## Technologies
 
@@ -20,4 +24,4 @@ The goal of this project is to build a simple interpreter from scratch and learn
 
 ## Author
 
-Myeongseob Cho
+Alex Myeongseob Cho
